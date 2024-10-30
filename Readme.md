@@ -702,7 +702,8 @@ require(uint64(bytes8(keccak256(abi.encodePacked(msg.sender)))) ^ uint64(_gateKe
 
 
 </details>
-_________________
+
+
 ## Naught Coin
 
 ### Task: 
